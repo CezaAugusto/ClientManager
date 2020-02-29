@@ -1,7 +1,7 @@
-# ClientManager
+# Client Manager
 Application to control customers and their properties | MEVN + BootstrapVue
 
-### Clone app-clientmanager
+### Clone Client Manager
 > git clone https://github.com/CezaAugusto/ClientManager.git
 
 ### At the Command Prompt
