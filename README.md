@@ -2,7 +2,7 @@
 Application to control customers and their properties | MEVN + BootstrapVue
 
 ### Clone Client Manager
-> git clone https://github.com/CezaAugusto/ClientManager.git
+> git clone https://github.com/CezarAugustoB/ClientManager.git
 
 ### At the Command Prompt
 > For **back-end** use *cd back-end* and then **npm run devbabel**
